@@ -4,6 +4,10 @@
 
 ###
 
+<h3 data-importer="text" align="center">1st Year Computer Science Student | Aspiring DevOps Engineer | Arch Linux & Automation Enthusiast .<br>I am an ambitious first-year university student who decided not to wait for graduation to dive into production-ready technologies. While my university classes cover the basics, I spend my free time breaking and fixing things in the Linux terminal, learning how to bridge the gap between development and operations, and embracing the true DevOps philosophy.<br>I am a firm believer that if you have to do a task manually more than twice, it deserves to be automated.</h3>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
